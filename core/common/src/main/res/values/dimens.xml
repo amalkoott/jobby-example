@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="card_response_btn_corner">50dp</dimen>
+
+    <dimen name="ic_favorite_start_padding">48dp</dimen>
+    <dimen name="ic_favorite_size">28dp</dimen>
+    <dimen name="ic_expiriense_size">16dp</dimen>
+
+    <dimen name="ic_expiriense_end_padding">10dp</dimen>
+    <dimen name="ic_confirm_size">16dp</dimen>
+
+    <dimen name="card_row_padding">8dp</dimen>
+    <dimen name="card_under_responce_btn_padding">21dp</dimen>
+    <dimen name="card_content_padding">16dp</dimen>
+    <dimen name="card_bottom_padding">8dp</dimen>
+    <dimen name="card_horisontal_padding">16dp</dimen>
+    <dimen name="card_child_padding">10dp</dimen>
+
+    <dimen name="favorites_element_vertical_padding">8dp</dimen>
+
+    <dimen name="vacancy_text_horizontal_padding">16dp</dimen>
+    <dimen name="vacancy_text_bottom_padding">8dp</dimen>
+
+    <dimen name="favorites_layout_bottom_padding">26dp</dimen>
+    <dimen name="favorites_title_horizontal_padding">16dp</dimen>
+    <dimen name="favorites_title_top_padding">56dp</dimen>
+    <dimen name="favorites_title_bottom_padding">24dp</dimen>
+
+    <dimen name="search_bar_height">64dp</dimen>
+    <dimen name="search_bar_elevation">8dp</dimen>
+    <dimen name="search_intro_title_horizontal_padding">16dp</dimen>
+    <dimen name="search_intro_title_bottom_padding">16dp</dimen>
+
+    <dimen name="vacancy_card_height">286dp</dimen>
+    <dimen name="vacancy_card_bottom_padding">8dp</dimen>
+    <dimen name="vacancy_card_horizontal_padding">16dp</dimen>
+
+    <dimen name="show_more_btn_corner">8dp</dimen>
+    <dimen name="show_more_btn_horizontal_padding">16dp</dimen>
+    <dimen name="show_more_btn_bottom_padding">72dp</dimen>
+    <dimen name="show_more_btn_top_padding">24dp</dimen>
+    <dimen name="show_more_btn_text_horizontal_padding">8dp</dimen>
+    <dimen name="search_layout_bottom_padding">34dp</dimen>
+
+    <dimen name="offers_bar_top_padding">16dp</dimen>
+    <dimen name="offers_bar_bottom_padding">32dp</dimen>
+    <dimen name="offers_bar_horizontal_padding">16dp</dimen>
+    <dimen name="offers_bar_horizontal_placeable_padding">8dp</dimen>
+    <dimen name="offers_card_height">120dp</dimen>
+    <dimen name="offers_card_width">132dp</dimen>
+
+    <dimen name="expanded_bar_horizontal_padding">16dp</dimen>
+    <dimen name="expanded_bar_bottom_padding">25dp</dimen>
+    <dimen name="expanded_bar_top_padding">70dp</dimen>
+    <dimen name="by_match_title_horizontal_padding">6dp</dimen>
+    <dimen name="by_match_ic_size">16dp</dimen>
+
+    <dimen name="search_bar_padding">4dp</dimen>
+    <dimen name="search_bar_top_padding">16dp</dimen>
+    <dimen name="search_bar_expanded_height">40dp</dimen>
+    <dimen name="search_bar_placeholder_padding">4dp</dimen>
+    <dimen name="ic_filter_box_size">40dp</dimen>
+    <dimen name="ic_filter_box_corner">10dp</dimen>
+    <dimen name="ic_filter_size">24dp</dimen>
+    <dimen name="ic_back_navigation_size">24dp</dimen>
+    <dimen name="search_bar_corner">8dp</dimen>
+    <dimen name="search_bar_element_padding">8dp</dimen>
+    <dimen name="search_bar_horizontal_padding">16dp</dimen>
+    <dimen name="search_bar_default_heigth">40dp</dimen>
+    <dimen name="offers_card_content_padding_top">10dp</dimen>
+    <dimen name="offers_card_content_padding_start">8dp</dimen>
+    <dimen name="offers_card_content_padding_end">16dp</dimen>
+    <dimen name="offers_card_content_padding_bottom">11dp</dimen>
+    <dimen name="offers_card_element_vertical_padding">16dp</dimen>
+    <dimen name="ic_offers_card_content">32dp</dimen>
+    <dimen name="ic_offers_card_padding">6dp</dimen>
+    <dimen name="login_layout_padding_top">32dp</dimen>
+    <dimen name="login_layout_padding_bottom">0dp</dimen>
+    <dimen name="login_layout_padding_start">16dp</dimen>
+    <dimen name="login_layout_padding_end">16dp</dimen>
+    <dimen name="login_space_between_intro">144dp</dimen>
+    <dimen name="login_card_corner">8dp</dimen>
+    <dimen name="login_card_padding_bottom">16dp</dimen>
+    <dimen name="login_card_content_padding_vertical">24dp</dimen>
+    <dimen name="login_card_content_padding_horizontal">16dp</dimen>
+    <dimen name="login_card_enterfield_padding_top">16dp</dimen>
+    <dimen name="login_card_enterfield_height">40dp</dimen>
+    <dimen name="login_card_btn_padding_top">16dp</dimen>
+    <dimen name="login_card_password_btn_padding_start">24dp</dimen>
+    <dimen name="login_card_title_padding_bottom">16dp</dimen>
+    <dimen name="login_card_employer_btn_corner">50dp</dimen>
+    <dimen name="login_card_enter_btn_corner">8dp</dimen>
+    <dimen name="with_email_enter_btn_corner">8dp</dimen>
+    <dimen name="with_email_code_box_corner">8dp</dimen>
+    <dimen name="with_email_code_box_size">48dp</dimen>
+    <dimen name="with_email_code_box_horizontal_padding">16dp</dimen>
+    <dimen name="with_email_element_padding_vertical">16dp</dimen>
+    <dimen name="with_email_layout_padding_top">162dp</dimen>
+    <dimen name="with_email_layout_padding_horizontal">16dp</dimen>
+    <dimen name="login_card_enterfield_padding_horizontal">16dp</dimen>
+    <dimen name="bottom_bar_heigth">60dp</dimen>
+    <dimen name="bottom_bar_elevation">2dp</dimen>
+    <dimen name="bottom_bar_bubble_size">10dp</dimen>
+    <dimen name="bottom_bar_bubble_corner">50dp</dimen>
+    <dimen name="ic_bottom_bar_size">24dp</dimen>
+</resources>
