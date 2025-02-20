@@ -14,6 +14,7 @@ import ru.amalkoott.model.Vacancy
 // one more comment from task 2
 // one more one more comment from task 2
 // task 5
+// task 6
 object DataMapper {
     fun offerMap(offers: JsonArray): Flow<List<Offer>> {
         val res = offers.map {
