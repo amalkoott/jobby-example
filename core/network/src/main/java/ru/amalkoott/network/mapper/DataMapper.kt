@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import ru.amalkoott.model.Offer
 import ru.amalkoott.model.Vacancy
 
-//todo gson
+//new comment into rugid
 object DataMapper {
     fun offerMap(offers: JsonArray): Flow<List<Offer>> {
         val res = offers.map {
