@@ -10,9 +10,6 @@ import ru.amalkoott.model.Offer
 import ru.amalkoott.model.Vacancy
 
 
-// comment from task 2
-// one more comment from task 2
-// one more one more comment from task 2
 // task 5
 // task 6
 object DataMapper {
