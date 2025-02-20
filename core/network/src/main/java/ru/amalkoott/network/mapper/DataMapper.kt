@@ -9,7 +9,7 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import ru.amalkoott.model.Offer
 import ru.amalkoott.model.Vacancy
 
-//todo gson
+// new comment to test branches
 object DataMapper {
     fun offerMap(offers: JsonArray): Flow<List<Offer>> {
         val res = offers.map {
@@ -31,7 +31,7 @@ object DataMapper {
             id = jsonAdvert.get("id").toStringOrNull(),
             title = jsonAdvert.get("title").toStringOrNull(),
             link = jsonAdvert.get("link").toStringOrNull(),
-            buttonText = jsonAdvert.getOrNull("button")?.get("text").toStringOrNull()//.getOrNull("text").toStringOrNull()
+            buttonText = jsonAdvert.getOrNull("button")?.get("text").toStringOrNull()
         )
     }
     private fun toVacancy(request: JsonElement): Vacancy {
