@@ -9,7 +9,9 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import ru.amalkoott.model.Offer
 import ru.amalkoott.model.Vacancy
 
-// new comment to test branches
+
+//new comment into rugid
+
 object DataMapper {
     fun offerMap(offers: JsonArray): Flow<List<Offer>> {
         val res = offers.map {
