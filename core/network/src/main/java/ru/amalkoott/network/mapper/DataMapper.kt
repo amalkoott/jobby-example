@@ -12,6 +12,9 @@ import ru.amalkoott.model.Vacancy
 
 //new comment into rugid
 
+
+
+// more comment
 object DataMapper {
     fun offerMap(offers: JsonArray): Flow<List<Offer>> {
         val res = offers.map {
