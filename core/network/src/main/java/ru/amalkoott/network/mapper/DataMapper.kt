@@ -9,7 +9,9 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import ru.amalkoott.model.Offer
 import ru.amalkoott.model.Vacancy
 
+
 //new comment into rugid
+
 
 
 // more comment
@@ -34,7 +36,7 @@ object DataMapper {
             id = jsonAdvert.get("id").toStringOrNull(),
             title = jsonAdvert.get("title").toStringOrNull(),
             link = jsonAdvert.get("link").toStringOrNull(),
-            buttonText = jsonAdvert.getOrNull("button")?.get("text").toStringOrNull()//.getOrNull("text").toStringOrNull()
+            buttonText = jsonAdvert.getOrNull("button")?.get("text").toStringOrNull()
         )
     }
     private fun toVacancy(request: JsonElement): Vacancy {
